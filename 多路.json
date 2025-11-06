@@ -1,0 +1,32 @@
+{
+  "urls": [
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/沙雕20251106.json",
+      "name": "jueson沙雕"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/fan20251106.json",
+      "name": "jueson饭太硬"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/api.json",
+      "name": "jueson讴歌"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/api.json",
+      "name": "jueson潇洒"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/小米20251106.json",
+      "name": "jueson小米"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/摸鱼儿/api.json",
+      "name": "jueson摸鱼"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/王二小20251106.json",
+      "name": "jueson王二小"
+    }
+  ]
+}

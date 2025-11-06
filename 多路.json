@@ -1,12 +1,12 @@
 {
   "urls": [
     {
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/沙雕20251106.json",
-      "name": "jueson沙雕"
-    },
-    {
       "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/fan20251106.json",
       "name": "jueson饭太硬"
+    },
+    {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/沙雕20251106.json",
+      "name": "jueson沙雕"
     },
     {
       "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/OG20251106.json",

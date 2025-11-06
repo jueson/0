@@ -1,15 +1,15 @@
 {
   "urls": [
     {
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/fan20251106.json",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/饭太硬/api.json",
       "name": "jueson饭太硬"
     },
     {
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/沙雕20251106.json",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/api.json",
       "name": "jueson沙雕"
     },
     {
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/OG20251106.json",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/欧歌/api.json",
       "name": "jueson欧歌"
     },
     {
@@ -17,15 +17,15 @@
       "name": "jueson潇洒"
     },
     {
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/小米20251106.json",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/小米/api.json",
       "name": "jueson小米"
     },
     {
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/摸鱼儿/api.json",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/摸鱼/api.json",
       "name": "jueson摸鱼"
     },
     {
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/王二小20251106.json",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/王二小/api.json",
       "name": "jueson王二小"
     }
   ]

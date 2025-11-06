@@ -1,7 +1,7 @@
 {
-  "spider":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/xiayespider.jar",
+  "spider":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/xiayespider.jar",
   "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/moyu.php",
-  "logo": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/jueson.jpg",
+  "logo":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/jueson.jpg",
   "sites": [
     {
       "key": "jueson",
@@ -196,7 +196,7 @@
         "主页url": "https://www.03yy.co",
         "数组": "<div class=\"pic-content pic-width-2\">&&</div",
         "副标题": "<span>&&</span>",
-        "嗅探词": ".mp4?#m3u8#adsmind.ugdtimg.com",
+        "嗅探词":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕mp4?#m3u8#adsmind.ugdtimg.com",
         "简介": "<p&&</p>",
         "导演": "导演：&&</div>",
         "主演": "主演：&&</div>",
@@ -215,7 +215,7 @@
       "key": "drpy_js_优酷",
       "name": "优酷",
       "type": 3,
-      "api":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/apiv501drpy2.min.js",
+      "api":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/apiv501apiv501drpy2.min.js",
       "ext":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/优酷.js"
     },
     {
@@ -248,7 +248,7 @@
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍",
       "type": 3,
-      "api":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/apiv501drpy2.min.js",
+      "api":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/apiv501apiv501drpy2.min.js",
       "ext":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/奇珍异兽.js"
     },
     {
@@ -262,7 +262,7 @@
       "jar":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
       "ext": {
-        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "嗅探词":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕m3u8#.mp4#.m3u8?#freeok.mp4",
         "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
         "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
         "数组二次截取": "class=\"v_list\">&&</ul>",
@@ -278,7 +278,7 @@
       "key": "e173267b0d7e1f1a1189c22c3bb7b556",
       "name": "淘片",
       "type": 0,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/apiv678xml.html"
+      "api":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/apiv678apiv678xml.html"
     },
     {
       "key": "萌米",

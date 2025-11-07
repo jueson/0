@@ -13,20 +13,12 @@
       "name": "jueson欧歌"
     },
     {
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/api.json",
-      "name": "jueson潇洒"
-    },
-    {
       "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/小米无网盘4K.json",
       "name": "jueson小米"
     },
     {
       "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/0/refs/heads/main/摸鱼儿去缝合.json",
       "name": "jueson摸鱼儿"
-    },
-    {
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/王二小/api.json",
-      "name": "jueson王二小"
     }
   ]
 }

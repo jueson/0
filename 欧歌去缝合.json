@@ -7,6 +7,7 @@
 "sites":[
 
 {"key":"豆瓣2","name":"📢免费仅限测试使用，请勿演示贩卖购买，谨防上当受骗！","type":3,"api":"csp_Douban","searchable":0},
+{"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 {"key":"夸快","name":"❤夸快｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/欧歌/lib/og.json"},
 {"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"ext":"https://api.ztcgi.com"},
 {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1},

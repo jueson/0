@@ -799,8 +799,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "ext": {
-        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YJhVp-4r.bmp"
+          "ext":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/bili.json"
       },
       "timeout": 20
     },

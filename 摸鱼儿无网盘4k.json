@@ -22,8 +22,7 @@
 {"key":"88js","name":"⚽88┃看球┃直播","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/摸鱼儿/lib/apiv2229drpy2.min.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/摸鱼儿/lib/88看球.js","style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0},
 {"key":"看球","name":"⚽聚合┃看球┃直播","type":3,"api":"csp_KanqiuGuard","timeout":15,"searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"MTV","name":"🎧明星┃MV┃蓝光","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
-"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed490195f7bf50ac60b9"}},
+{"key":"MTV","name":"🎧明星┃MV┃蓝光","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed490195f7bf50ac60b9"}},
 {"key":"虎牙直播js","name":"🐯虎牙┃娱乐┃蓝光","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/摸鱼儿/lib/apiv2319drpy2.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/摸鱼儿/lib/huya2.js","style":{"type":"rect","ratio":1.755},
 "timeout":15,"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"斗鱼js","name":"🐟斗鱼┃娱乐┃蓝光","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/摸鱼儿/lib/apiv2229drpy2.min.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/摸鱼儿/lib/斗鱼直播.js","style":{"type":"rect","ratio":1.755},
@@ -60,9 +59,6 @@
 {"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
 {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
-],
-"lives":[
-{"name":"【备用】全是气氛组","type":0,"ua":"okhttp/3.15"}
 ],
 "flags":["youku","优酷","优酷","优酷视频","qq","腾讯","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","乐视","sohu","搜狐","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒果TV","bilibili","哔哩","哔哩哔哩"],"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},

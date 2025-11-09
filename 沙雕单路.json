@@ -1,7 +1,7 @@
 {
   "spider":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
   "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/moyu.php",
-  "logo":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/jueson.jpg",
+   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
     {
       "key": "ffBBB",

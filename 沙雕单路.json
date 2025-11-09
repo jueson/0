@@ -1,22 +1,22 @@
 {
-  "spider":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/xm.jar;md5;b6def02ec13662a8739d9f80f1f42e89",
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/xm.jar;md5;b6def02ec13662a8739d9f80f1f42e89",
   "logo": "https://www.xit.edu.cn/wlaq/UploadFiles_4283/202110/2021102616050834.gif",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-            "key": "Bilibili",
-            "name": "哔哔合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/bili.json"
-        }
+      "key": "Bilibili",
+      "name": "哔哔合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/bili.json"
+    }
   ],
   "parses": [
     {
@@ -75,53 +75,6 @@
           "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
         }
       }
-    }
-  ],
-  "lives": [
-    {
-      "name": "综合1",
-      "type": 0,
-      "url":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/live1.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "综合2",
-      "type": 0,
-      "url":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/live2.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "综合3",
-      "type": 0,
-      "url":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/wexiptv.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "IPV4",
-      "type": 0,
-      "url":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/wexlive.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url":"https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕/lib/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "doh": [
@@ -183,9 +136,9 @@
         "www.histar.tv",
         "youtube.com",
         "uhibo.com",
-       "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕*boku.*",
-       "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕*nivod.*",
-       "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕*ulivetv.*"
+        "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕*boku.*",
+        "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕*nivod.*",
+        "https://gh-proxy.com/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/沙雕*ulivetv.*"
       ]
     },
     {

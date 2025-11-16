@@ -246,8 +246,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "
-https://proxy.pipers.cn/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/香雅情/lib/Bili.json"
+            "ext": "https://proxy.pipers.cn/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/香雅情/lib/Bili.json"
         },
         {
             "key": "csp_Bili幼儿",

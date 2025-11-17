@@ -14,7 +14,7 @@
         },
         {
             "key": "csp_Bili",
-            "name": "哔哩综合",
+            "name": "哔哩合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,

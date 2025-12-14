@@ -24,7 +24,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/raw.githubusercontent.com/jueson/box/refs/heads/main/bili.json"
+            "ext": "./bili.json"
         },
     {
       "key": "88js",

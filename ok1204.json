@@ -106,7 +106,7 @@
 {"key":"bilimd","name":"🅱哔哩┃影视","type":3,"api":"csp_BilimdGuard","searchable":1,"quickSearch":0,"changeable":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
 "timeout":10},
 {"key":"bili","name":"🅱哔哩┃合集","type":3,"api":"csp_BiliGuard","searchable":1,"quickSearch":0,"changeable":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
-"ext":{"json":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/57EAD2E_773_bili_20251204145747516newMediaFile.bmp"},
+"ext":{"json":"https://github.com/jueson/tvbox/raw/refs/heads/main/OK/lib/3936012b8dcc4c4699f0ace55ab2283e.bmp"},
 "timeout":20},
 {"key":"biliych","name":"🅱哔哩┃歌曲","type":3,"api":"csp_BiliGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
 "ext":{"json":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/28CD73E_773_biliych_20251204150624308newMediaFile.bmp"},

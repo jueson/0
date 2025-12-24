@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/spider.jar",
+    "spider": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
@@ -505,28 +505,28 @@
             "key": "腾讯视频",
             "name": "腾讯｜视频",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/腾讯视频.js"
         },
         {
             "key": "优酷视频",
             "name": "优酷｜视频",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/优酷视频.js"
         },
         {
             "key": "芒果视频",
             "name": "芒果｜视频",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/芒果视频.js"
         },
         {
             "key": "爱奇艺",
             "name": "爱奇异｜视频",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/爱奇艺.js"
         },
         {
@@ -753,7 +753,7 @@
             "key": "双星",
             "name": "双星｜4K",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/双星.js",
             "style": {
                 "type": "list"
@@ -763,7 +763,7 @@
             "key": "人人",
             "name": "人人｜4K",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/人人电影网.js",
             "style": {
                 "type": "list"
@@ -773,7 +773,7 @@
             "key": "星芽短剧",
             "name": "星芽｜短剧",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1819星芽短剧.py",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1819apiv1819星芽短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -783,7 +783,7 @@
             "key": "甜圈短剧",
             "name": "甜圈｜短剧",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1841甜圈短剧.py",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1841apiv1841甜圈短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -793,7 +793,7 @@
             "key": "剧王短剧",
             "name": "剧王｜短剧",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1863剧王短剧.py",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1863apiv1863剧王短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -947,7 +947,7 @@
             "key": "采集之王",
             "name": "采集｜合集",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/采集静态.json"
         },
         {
@@ -973,21 +973,21 @@
             "key": "56动漫",
             "name": "56｜动漫",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/56动漫.js"
         },
         {
             "key": "Anime1",
             "name": "A1｜动漫",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/Anime1.js"
         },
         {
             "key": "NT动漫",
             "name": "NT｜动漫",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/NT动漫.js"
         },
         {
@@ -1129,56 +1129,56 @@
             "key": "好看动漫",
             "name": "好看｜动漫",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/好看动漫.js"
         },
         {
             "key": "花子动漫",
             "name": "花子｜动漫",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/花子动漫.js"
         },
         {
             "key": "动画片",
             "name": "动画片｜动漫",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/动画片大全.js"
         },
         {
             "key": "爱动漫",
             "name": "爱动漫｜动漫",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/爱动漫.js"
         },
         {
             "key": "路漫漫",
             "name": "路漫漫｜动漫",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/路漫漫.js"
         },
         {
             "key": "动漫岛",
             "name": "动漫岛｜动漫",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/动漫岛.js"
         },
         {
             "key": "去看吧",
             "name": "去看吧｜动漫",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/去看吧.js"
         },
         {
             "key": "异世界",
             "name": "异世界｜动漫",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv1259apiv1259drpy2.min.js",
             "ext": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/异世界.js"
         },
         {
@@ -1495,13 +1495,13 @@
             "key": "网络直播",
             "name": "网络｜直播",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv3535网络直播.py"
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv3535apiv3535网络直播.py"
         },
         {
             "key": "哔哩直播",
             "name": "哔哩｜直播",
             "type": 3,
-            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv3549哔哩直播.py"
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/jueson/tvbox/refs/heads/main/潇洒/lib/apiv3549apiv3549哔哩直播.py"
         },
         {
             "key": "哔哩合集",

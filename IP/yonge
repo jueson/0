@@ -1,0 +1,9 @@
+trojan://1c8d4fb9-0b5e-494d-bf32-398f84717dca@yg13.ygkkk.dpdns.org:2096/?type=ws&host=264a.jueson.de5.net&path=%2F%3Fed%3D2560&security=tls&sni=264a.jueson.de5.net&fp=chrome#US22A
+trojan://1c8d4fb9-0b5e-494d-bf32-398f84717dca@yg9.ygkkk.dpdns.org:8443/?type=ws&host=264a.jueson.de5.net&path=%2F%3Fed%3D2560&security=tls&sni=264a.jueson.de5.net&fp=chrome#HK00D
+trojan://1c8d4fb9-0b5e-494d-bf32-398f84717dca@yg10.ygkkk.dpdns.org:2053/?type=ws&host=264a.jueson.de5.net&path=%2F%3Fed%3D2560&security=tls&sni=264a.jueson.de5.net&fp=chrome#HK00D
+trojan://1c8d4fb9-0b5e-494d-bf32-398f84717dca@yg11.ygkkk.dpdns.org:2083/?type=ws&host=264a.jueson.de5.net&path=%2F%3Fed%3D2560&security=tls&sni=264a.jueson.de5.net&fp=chrome#HK00D
+trojan://1c8d4fb9-0b5e-494d-bf32-398f84717dca@yg12.ygkkk.dpdns.org:2087/?type=ws&host=264a.jueson.de5.net&path=%2F%3Fed%3D2560&security=tls&sni=264a.jueson.de5.net&fp=chrome#HK00D
+trojan://jueson@198.41.223.73:443/?type=ws&host=264a.jueson.de5.net&security=tls&sni=264a.jueson.de5.net#Trojan
+trojan://1c8d4fb9-0b5e-494d-bf32-398f84717dca@yg8.ygkkk.dpdns.org:443/?type=ws&host=264a.jueson.de5.net&path=%2F%3Fed%3D2560&security=tls&sni=264a.jueson.de5.net&fp=chrome#HK00D
+vless://9478ffd3-e03d-42a0-bef5-17468e4064f7@faq1.lieerr222.cn:43525/?type=ws&encryption=none&flow=&host=167e.jueson.de5.net&path=%2F&security=tls&sni=167e.jueson.de5.net#VlessTls
+vless://9478ffd3-e03d-42a0-bef5-17468e4064f7@58.152.18.124:443/?type=ws&encryption=none&flow=&host=167e.jueson.de5.net#VlessNotls
